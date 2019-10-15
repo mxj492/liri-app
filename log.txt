@@ -1,0 +1,52 @@
+**********MOVIE INFO*********
+Title: Joker
+Release Year: 2019
+IMDB Rating: 9.1
+Rotten Tomatoes Rating: 77%
+Country of Production: USA, Canada
+Language: English
+Plot: A gritty character study of Arthur Fleck, a man disregarded by society.
+Actors: Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Art Park - West Kowloon Cultural District
+Venue Location: Kowloon Tong
+Date of the Event: 2019-10-19T19:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Wells Fargo Center
+Venue Location: Philadelphia
+Date of the Event: 2019-10-25T17:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Prudential Center
+Venue Location: Newark
+Date of the Event: 2019-10-26T19:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Las Vegas Festival Grounds
+Venue Location: Las Vegas
+Date of the Event: 2019-11-01T00:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Drai's Beachclub & Nightclub
+Venue Location: Las Vegas
+Date of the Event: 2019-11-02T12:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Las Vegas Festival Grounds
+Venue Location: Las Vegas
+Date of the Event: 2019-11-03T13:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: Wonderfront Music Festival
+Venue Location: San Diego
+Date of the Event: 2019-11-23T23:00:00
+*****************************

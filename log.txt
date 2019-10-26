@@ -1,30 +1,31 @@
+
 **********MOVIE INFO*********
-Title: Joker
-Release Year: 2019
-IMDB Rating: 9.1
-Rotten Tomatoes Rating: 77%
-Country of Production: USA, Canada
+Title: Zombieland
+Release Year: 2009
+IMDB Rating: 7.6
+Rotten Tomatoes Rating: 90%
+Country of Production: USA
 Language: English
-Plot: A gritty character study of Arthur Fleck, a man disregarded by society.
-Actors: Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy
+Plot: A shy student trying to reach his family in Ohio, a gun-toting tough guy trying to find the last Twinkie, and a pair of sisters trying to get to an amusement park join forces to travel across a zombie-filled America.
+Actors: Jesse Eisenberg, Woody Harrelson, Emma Stone, Abigail Breslin
 *****************************
 **********EVENT INFO*********
 0
-Name of the Venue: Art Park - West Kowloon Cultural District
-Venue Location: Kowloon Tong
-Date of the Event: 2019-10-19T19:00:00
-*****************************
-**********EVENT INFO*********
-1
 Name of the Venue: Wells Fargo Center
 Venue Location: Philadelphia
 Date of the Event: 2019-10-25T17:00:00
 *****************************
 **********EVENT INFO*********
-2
+1
 Name of the Venue: Prudential Center
 Venue Location: Newark
 Date of the Event: 2019-10-26T19:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: The Globe Theatre
+Venue Location: Los Angeles
+Date of the Event: 2019-10-31T19:00:00
 *****************************
 **********EVENT INFO*********
 3
@@ -49,4 +50,196 @@ Date of the Event: 2019-11-03T13:00:00
 Name of the Venue: Wonderfront Music Festival
 Venue Location: San Diego
 Date of the Event: 2019-11-23T23:00:00
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Wells Fargo Center
+Venue Location: Philadelphia
+Date of the Event: 2019-10-25T17:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Prudential Center
+Venue Location: Newark
+Date of the Event: 2019-10-26T19:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: The Globe Theatre
+Venue Location: Los Angeles
+Date of the Event: 2019-10-31T19:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Las Vegas Festival Grounds
+Venue Location: Las Vegas
+Date of the Event: 2019-11-01T00:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Drai's Beachclub & Nightclub
+Venue Location: Las Vegas
+Date of the Event: 2019-11-02T12:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Las Vegas Festival Grounds
+Venue Location: Las Vegas
+Date of the Event: 2019-11-03T13:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: Wonderfront Music Festival
+Venue Location: San Diego
+Date of the Event: 2019-11-23T23:00:00
+*****************************
+**********MOVIE INFO*********
+Title: Joker
+Release Year: 2019
+IMDB Rating: 8.9
+Rotten Tomatoes Rating: 68%
+Country of Production: USA, Canada
+Language: English
+Plot: In Gotham City, mentally-troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: "The Joker".
+Actors: Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy
+*****************************
+**********SONG INFO*********
+0
+song name: Hotel California - 2013 Remaster
+preview song: https://p.scdn.co/mp3-preview/50e82c99c20ffa4223e82250605bbd8500cb3928?cid=ca521d1859bb48afa451468a1d3147f6
+album: Hotel California (2013 Remaster)
+artist(s): Eagles
+*****************************
+**********SONG INFO*********
+1
+song name: Night Shift
+preview song: null
+album: California Sunrise
+artist(s): Jon Pardi
+*****************************
+**********SONG INFO*********
+2
+song name: California
+preview song: null
+album: Norman Fucking Rockwell!
+artist(s): Lana Del Rey
+*****************************
+**********SONG INFO*********
+3
+song name: Heartache On The Dance Floor
+preview song: null
+album: California Sunrise
+artist(s): Jon Pardi
+*****************************
+**********SONG INFO*********
+4
+song name: Dani California
+preview song: https://p.scdn.co/mp3-preview/87d4f1047475a73d44731914bca0b883cc1d5876?cid=ca521d1859bb48afa451468a1d3147f6
+album: Stadium Arcadium
+artist(s): Red Hot Chili Peppers
+*****************************
+**********SONG INFO*********
+5
+song name: Head Over Boots
+preview song: null
+album: California Sunrise
+artist(s): Jon Pardi
+*****************************
+**********SONG INFO*********
+6
+song name: Dirt On My Boots
+preview song: null
+album: California Sunrise
+artist(s): Jon Pardi
+*****************************
+**********SONG INFO*********
+7
+song name: California Dreamin' - Single Version
+preview song: null
+album: If You Can Believe Your Eyes & Ears
+artist(s): The Mamas & The Papas
+*****************************
+**********SONG INFO*********
+8
+song name: California Love - Original Version
+preview song: null
+album: The Best of 2Pac - Pt. 1: Thug
+artist(s): 2Pac
+*****************************
+**********SONG INFO*********
+9
+song name: California Gurls
+preview song: null
+album: Katy Perry - Teenage Dream: The Complete Confection
+artist(s): Katy Perry
+*****************************
+**********SONG INFO*********
+10
+song name: Life in the Fast Lane - 2013 Remaster
+preview song: https://p.scdn.co/mp3-preview/d8393c90573d9d7049519e5adfe3983b221bc78a?cid=ca521d1859bb48afa451468a1d3147f6
+album: Hotel California (2013 Remaster)
+artist(s): Eagles
+*****************************
+**********SONG INFO*********
+11
+song name: Wish
+preview song: https://p.scdn.co/mp3-preview/17780de5b7da53a2dc9acf3309d8f2ffdf6eda01?cid=ca521d1859bb48afa451468a1d3147f6
+album: California
+artist(s): Diplo
+*****************************
+**********SONG INFO*********
+12
+song name: California
+preview song: https://p.scdn.co/mp3-preview/ce07694aa6b589bf40497b1a78bfcd75a233534b?cid=ca521d1859bb48afa451468a1d3147f6
+album: Blue
+artist(s): Joni Mitchell
+*****************************
+**********SONG INFO*********
+13
+song name: California Gurls
+preview song: null
+album: Teenage Dream
+artist(s): Katy Perry
+*****************************
+**********SONG INFO*********
+14
+song name: California Love - Original Version
+preview song: null
+album: Greatest Hits
+artist(s): 2Pac
+*****************************
+**********SONG INFO*********
+15
+song name: Drive By
+preview song: https://p.scdn.co/mp3-preview/865f82fe864c025256b3871e0317d5d2229be147?cid=ca521d1859bb48afa451468a1d3147f6
+album: California 37
+artist(s): Train
+*****************************
+**********SONG INFO*********
+16
+song name: Heads Carolina, Tails California
+preview song: https://p.scdn.co/mp3-preview/0abb144994b03f3b1ce3c47b84683334d07094b0?cid=ca521d1859bb48afa451468a1d3147f6
+album: JoDee Messina
+artist(s): Jo Dee Messina
+*****************************
+**********SONG INFO*********
+17
+song name: Going to California - Remaster
+preview song: https://p.scdn.co/mp3-preview/4bdae56c6a9f7a8ec42b753cb7bea2c77ec68f1e?cid=ca521d1859bb48afa451468a1d3147f6
+album: Led Zeppelin IV (Deluxe Edition)
+artist(s): Led Zeppelin
+*****************************
+**********SONG INFO*********
+18
+song name: California
+preview song: https://p.scdn.co/mp3-preview/68a7f27e7271c4a938339991608476637d3a7cbf?cid=ca521d1859bb48afa451468a1d3147f6
+album: California
+artist(s): The Lagoons
+*****************************
+**********SONG INFO*********
+19
+song name: California
+preview song: null
+album: 21st Century Liability
+artist(s): YUNGBLUD
 *****************************

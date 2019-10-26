@@ -10,3 +10,10 @@ movie-this
 
 do-what-it-says
 
+Open your terminal such as Bash.
+
+Navigate to the folder that contains the liri.js file.
+
+Depending on the command you run, the output will vary.
+
+Watch the video here: https://drive.google.com/file/d/1jpvTKrP55cz1GzyzKO4XaNNVSdGhmRCk/view
